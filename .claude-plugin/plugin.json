@@ -1,0 +1,1 @@
+{ "name": "usage-meter", "version": "0.1.0", "description": "Shows rate-limit usage (5h / 7d), context fill and session cost on the status line, always on screen" }
